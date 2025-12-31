@@ -11,7 +11,7 @@ st.set_page_config(page_title="Meu Radar de Notícias", layout="wide", page_icon
 # 2. Legislativo & Judiciário
 # 3. Notícias Regionais (Divinópolis/Centro-Oeste)
 FEEDS = {
-    "🤖 Google & IA (The Keyword)": "https://blog.google/rss/",
+    "🤖 Google & IA (The Keyword)": "https://blog.google/intl/pt-br/",
     "⚖️ STF (Notícias)": "https://www.stf.jus.br/portal/rss/noticiasRss.asp",
     "🏛️ Câmara dos Deputados": "https://www.camara.leg.br/noticias/rss",
     "🔺 G1 Centro-Oeste de Minas": "https://g1.globo.com/dynamo/mg/centro-oeste/rss2.xml",
